@@ -6,7 +6,7 @@
 * **Education:** Senior student at Northern Bukidnon State College
 * **Profile:** INFJ | Leo
 * **Traits:** Introverted, active listener, open-minded, intuitive
-* **Interests:** Tokusatsu fan, geek culture fanatic, film enthusiast (*The Human Centipede*)
+* **Interests:** Tokusatsu fan(Super Sentai Kamen Rider), geek culture fanatic, film enthusiast (*The Human Centipede*)
 
 ### Tech Stack
 * **Languages:** JavaScript, TypeScript, Java, PHP, HTML
