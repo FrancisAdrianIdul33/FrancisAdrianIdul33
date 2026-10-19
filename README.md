@@ -1,26 +1,103 @@
-## Francis Adrian Idul
-
-4th year Information Technology student at Northern Bukidnon State College and aspiring freelance developer.
-
-### About Me
-* **Education:** Senior student at Northern Bukidnon State College
-* **Profile:** INFJ | Leo
-* **Traits:** Introverted, active listener, open-minded, intuitive
-* **Interests:** Tokusatsu fan(Super Sentai Kamen Rider), geek culture fanatic, film enthusiast (*The Human Centipede*)
-
-### Tech Stack
-* **Languages:** JavaScript, TypeScript, Java, PHP, HTML
-* **Frameworks:** React, Expo
-* **Databases & Cloud:** Supabase, Firebase, MySQL
-* **Design & 3D Graphics:** Inkscape, Blender
-
-### Current Project
-* **AdlaWatt IoT:** Cross-platform mobile app for Android and iOS with an administrative dashboard.
-
-### Career Goals
-* Preparing to work as a full-time freelance developer after graduation.
-
-### Contact
-* **Email:** francis.idul78@gmail.com
 
 
+<div align="center">
+
+<img src="./header.svg" alt="Francis Adrian Idul banner" width="100%"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=2c5364&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 👋 About Me
+
+<img align="right" src="./images/profile.png" alt="Francis" width="200"/>
+
+- 🎓 4th year IT student at **Northern Bukidnon State College**
+- 💼 Aspiring **full-time freelance developer**
+- 🧠 **INFJ** | **Leo**
+- 🌱 Introverted, active listener, open-minded, intuitive
+- 🎬 Tokusatsu fan (Super Sentai, Kamen Rider), geek culture fanatic, film enthusiast
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,php,html,css" alt="languages"/>
+</p>
+
+**Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="react"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="expo" height="48"/>
+</p>
+
+**Databases & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql" alt="databases"/>
+</p>
+
+**Design & 3D**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=inkscape,blender" alt="design"/>
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" alt="tools"/>
+</p>
+
+---
+
+## 🚀 Current Project
+
+<img align="left" src="./images/adlawatt.png" alt="AdlaWatt" width="240"/>
+
+### AdlaWatt IoT
+
+- Cross-platform mobile app for Android and iOS
+- Includes an administrative dashboard
+- Monitors off-grid solar backup power
+
+<br clear="left"/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 🎯 Career Goals
+
+- Work as a full-time freelance developer after graduation
+
+---
+
+## 📬 Contact
+
+<p>
+  <a href="mailto:francis.idul78@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
