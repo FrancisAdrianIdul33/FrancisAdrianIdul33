@@ -6,8 +6,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=FrancisAdrianIdul33&color=2c5364&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -61,7 +59,7 @@
 
 ## 🚀 Current Project
 
-<img align="left" src="./images/adlawatt-icon-transparent.png" alt="AdlaWatt" width="240"/>
+<img align="left" src="./adlawatt.png" alt="AdlaWatt" width="240"/>
 
 ### AdlaWatt IoT
 
