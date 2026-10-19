@@ -14,8 +14,6 @@
 
 ## 👋 About Me
 
-<img align="right" src="./images/profile.png" alt="Francis" width="200"/>
-
 - 🎓 4th year IT student at **Northern Bukidnon State College**
 - 💼 Aspiring **full-time freelance developer**
 - 🧠 **INFJ** | **Leo**
@@ -63,7 +61,7 @@
 
 ## 🚀 Current Project
 
-<img align="left" src="./images/adlawatt.png" alt="AdlaWatt" width="240"/>
+<img align="left" src="./images/adlawatt-icon-transparent.png" alt="AdlaWatt" width="240"/>
 
 ### AdlaWatt IoT
 
