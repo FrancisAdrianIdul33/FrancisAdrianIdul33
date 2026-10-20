@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img src="./header.svg" alt="Francis Adrian Idul banner" width="100%"/>
@@ -17,42 +15,13 @@
 - 🧠 **INFJ** | **Leo**
 - 🌱 Introverted, active listener, open-minded, intuitive
 - 🎬 Tokusatsu fan (Super Sentai, Kamen Rider), geek culture fanatic, film enthusiast
-
 <br clear="right"/>
-
----
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,php,html,css" alt="languages"/>
-</p>
-
-**Frameworks**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react" alt="react"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,php,html,css,react,supabase,firebase,mysql,blender,github,vscode,figma,sentry" alt="languages"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="expo" height="48"/>
-</p>
-
-**Databases & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql" alt="databases"/>
-</p>
-
-**Design & 3D**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=inkscape,blender" alt="design"/>
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" alt="tools"/>
 </p>
 
 ---
@@ -74,26 +43,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=FrancisAdrianIdul33&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisAdrianIdul33&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=FrancisAdrianIdul33&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-</div>
-
----
-
-## 🎯 Career Goals
-
-- Work as a full-time freelance developer after graduation
-
----
-
-## 📬 Contact
 
 <p>
-  <a href="mailto:francis.idul78@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<img height="180"  src="https://github-readme-stats.vercel.app/api?username=FrancisAdrianIdul33&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
 </p>
+
+<p>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisAdrianIdul33&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p>
+<img  src="https://streak-stats.demolab.com/?user=FrancisAdrianIdul33&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+</div>
