@@ -18,11 +18,11 @@
     <animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/>
   </text>
   <text x="450" y="150" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#9be7ff">
-    IT Student | Aspiring Freelance Developer
+      Just Gramming, not yet a Pro!
     <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="1.5s" fill="freeze"/>
   </text>
   <text x="450" y="190" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#cfd8dc">
-    IoT  •  Mobile  •  Web
+    IoT  •  Mobile  •  Web  •  Game 
     <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="1.5s" fill="freeze"/>
   </text>
 </svg>
